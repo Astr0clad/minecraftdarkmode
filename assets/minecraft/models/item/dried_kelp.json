@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/dried_kelp"
-  }
+    "parent": "item/smaller_util",
+    "textures": {
+        "layer0": "item/dried_kelp"
+    }
 }
