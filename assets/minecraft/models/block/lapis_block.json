@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/lapis_block"
-  }
+    "parent": "block/ctm",
+    "textures": {
+        "all": "block/lapis_block",
+        "base": "block/lapis_block_borderless"
+    }
 }
