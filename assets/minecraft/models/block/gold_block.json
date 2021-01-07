@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/gold_block"
-  }
+    "parent": "block/ctm",
+    "textures": {
+        "all": "block/gold_block",
+        "base": "block/gold_block_borderless"
+    }
 }
