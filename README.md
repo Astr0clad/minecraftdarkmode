@@ -8,7 +8,6 @@
 ![.](https://img.shields.io/badge/.JSON%2F.MCMETA-Yes-brightgreen?logo=giphy)
 ![.](https://img.shields.io/badge/OptiFine%20Textures-Yes-brightgreen)
 ![.](https://img.shields.io/badge/Code%20Quality-Legendary-yellow)
-![.](https://img.shields.io
 
 
 ### A texture pack in progress by Astr0clad and Mineinjava
