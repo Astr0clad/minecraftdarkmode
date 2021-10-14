@@ -25,3 +25,9 @@
 
 ### A texture pack in progress by Astr0clad and Mineinjava
 
+This texture pack's purpose is to make Minecraft more kind to your eyes. Along with turning all the UI into a dark mode version, there are a few quality updates that are coming or already exist.
+
+If you would like the most recent version of the texture pack, you can download from master. Otherwise please download from releases in order to get the most recent stable release.
+
+
+Please view the license before downloading.
